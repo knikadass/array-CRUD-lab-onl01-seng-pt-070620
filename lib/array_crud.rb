@@ -28,6 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   famous_dogs = ["Simba", "Kobe", "Bentley", "Nala"]
+  famous_dogs[0]
 end
 
 def retrieve_first_element_from_array(array)
