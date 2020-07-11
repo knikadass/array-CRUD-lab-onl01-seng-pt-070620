@@ -33,7 +33,7 @@ end
 
 def retrieve_first_element_from_array(array)
   famous_dogs = ["am","Simba", "Kobe", "Bentley", "Nala"]
-  famoud_dogs[1]
+  famoud_dogs.first
 end
 
 def retrieve_last_element_from_array(array)
