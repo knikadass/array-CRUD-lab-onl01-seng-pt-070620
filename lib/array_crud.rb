@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   famous_dogs = ["Simba", "Kobe", "Bentley", "Nala"]
-  famoud_dogs.push("Kimmy")
+  famoud_dogs.push("Simba")
 end
 
 def add_element_to_start_of_array(array, element)
