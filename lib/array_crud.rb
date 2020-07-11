@@ -17,7 +17,9 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  
+  famous_dogs = ["Simba", "Kobe", "Bentley", "Nala"]
+  famous_dogs.pop("Nala")
+
 end
 
 def remove_element_from_start_of_array(array)
